@@ -15,7 +15,7 @@ An interactive Web Application using streamlit library was implemented to analys
 
 
 ## Terminal Input
-__In anaconda prompt  __ 
+**In anaconda prompt**   
 
 *1- Traverse through to the stored file using cd*  
 *2- code app.py (python file name)*      
