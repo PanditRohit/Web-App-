@@ -4,14 +4,14 @@ An interactive Web Application using streamlit library was implemented to analys
 
 # Work Flow
 
-***Task 1: Load Terminal and run commands mentioned below 
-Task 2: Load the Mushrooms Data Set
-Task 3: Creating Training and Test Sets
-Task 4: Plot Evaluation Metrics
-Task 5: Training a Support Vector Classifier
-Task 6: Training a Support Vector Classifier
-Task 7: Train a Logistic Regression Classifier
-Task 8: Training a Random Forest Classifier***
+***Task 1: Load Terminal and run commands mentioned below  
+Task 2: Load the Mushrooms Data Set  
+Task 3: Creating Training and Test Sets  
+Task 4: Plot Evaluation Metrics  
+Task 5: Training a Support Vector Classifier  
+Task 6: Training a Support Vector Classifier  
+Task 7: Train a Logistic Regression Classifier  
+Task 8: Training a Random Forest Classifier  ***
 
 
 ## Terminal Input
